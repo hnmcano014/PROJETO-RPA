@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passando", "Passando\Passando.csproj", "{CAF99B6F-FBC1-4F6F-AA3F-4A5D9CD69E4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passando", "PROJETO_RPA\ProjetoRpa.csproj", "{CAF99B6F-FBC1-4F6F-AA3F-4A5D9CD69E4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
